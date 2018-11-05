@@ -1,6 +1,7 @@
 html {
   font-family: "Sigmar One", sans-serif;
   box-sizing: inherit;
+  color: #2f2d13;
 }
 
 body {
@@ -18,7 +19,7 @@ header {
 h1 {
   text-align: center;
   margin: .3em;
-  color: #cc1465;
+  color: #b20953;
   font-size: 3rem;
 }
 
