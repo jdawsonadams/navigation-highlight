@@ -8,8 +8,13 @@ header {
 
 h1 {
   text-align: center;
+  margin: .3em;
   color: #cc1465;
   font-size: 3rem;
+}
+
+section {
+  margin: .3em;
 }
 
 h2 {
@@ -36,11 +41,19 @@ a {
   list-style-type: none;
 }
 
+.current {
+  background-color: #cc1465;
+}
 nav {
   font-family: Georgia;
+}
+
+a:hover {
+  background-color: #cc1465;
 }
 
 footer {
   background-color: #ffe500;
   text-align: center;
+  font-family: Georgia;
 }
