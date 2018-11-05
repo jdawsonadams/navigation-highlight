@@ -5,11 +5,12 @@ html {
 }
 
 body {
-
+  margin: .3em
 }
 
 img {
-
+  display: inline;
+  width: 100%;
 }
 
 header {
