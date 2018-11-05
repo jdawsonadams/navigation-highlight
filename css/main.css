@@ -1,5 +1,14 @@
 html {
-  font-family: Sigmar One, sans-serif;
+  font-family: "Sigmar One", sans-serif;
+  box-sizing: inherit;
+}
+
+body {
+
+}
+
+img {
+
 }
 
 header {
