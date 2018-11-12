@@ -38,13 +38,13 @@ nav {
 }
 
 h2 {
-  color: #cc1465;
+  color: #b20953;
   font-size: 1.875rem;
 }
 
 img {
   display: block;
-  width: 100%;
+  width: 110%;
 }
 
 p {
@@ -57,7 +57,7 @@ footer {
   text-align: center;
   font-family: Georgia;
   padding: .3em .5em;
-  font-size: .2rem;
+  font-size: .9rem;
 }
 
 nav ul {
@@ -76,14 +76,14 @@ nav li {
   text-decoration: none;
   display: inline-block;
   color: #fff;
-  border-radius: .4em;
+  border-radius: 4px;
   padding: .2em .5em .3em;
   list-style-type: none;
 }
 
 .current {
   background-color: #cc1465;
-  border-radius: .4em;
+  border-radius: 4px;
 }
 
 a:hover {
